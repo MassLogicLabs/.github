@@ -129,7 +129,7 @@ No response within three business days does not mean approval. Do not publish un
 
 ## 8. Updates
 
-MassLogic Labs may update these guidelines on notice. Notice is given by email to your registered partner contact, with the updated version posted at https://masslogiclabs.com/brand-guidelines. Changes take effect 30 days after notice unless the notice states otherwise.
+MassLogic Labs may update these guidelines on notice. Notice is given by email to your registered partner contact, with the updated version posted at the address stated on the cover page of the Partner Agreement. Changes take effect 30 days after notice unless the notice states otherwise.
 
 ## 9. Brand questions
 
