@@ -1,29 +1,54 @@
 # MassLogic Labs Brand Assets
 
-This directory contains official, approved visual assets for MassLogic Labs and MIMO. Use of these assets is governed by the MassLogic Labs Brand Hub (single source of truth) and [BRANDING.md](../BRANDING.md) in this repo.
+Official, approved visual assets for MassLogic Labs and MIMO. Use of these
+assets is governed by the **MassLogic Labs Brand Hub**, the single source of
+truth. See [BRANDING.md](../BRANDING.md) for trademarks and attribution.
 
-## Available formats
+## What is here
 
-### Vector (.svg)
-For web and scaling without loss of quality. Use these for digital applications where the mark may be displayed at various sizes.
+- `logos/masslogic/` — MassLogic Labs wordmarks, on-light and on-dark, SVG and PNG.
+- `logos/mimo/` — MIMO wordmarks, on-light and on-dark, SVG and PNG.
 
-### Print (.eps or .pdf)
-For high-quality physical materials — professional printing, signage, and large-scale applications.
+Print formats (.eps, .pdf) and icon-only files are available on request from
+brand@masslogiclabs.com.
 
-### Raster (.png with transparency)
-For presentations and quick digital use. High-resolution PNGs with transparency for immediate use in documents and decks.
+## Color
 
-## Logo directories
+| Name | Hex | Use |
+|---|---|---|
+| Navy | `#001937` | Backgrounds, headers, text |
+| Gold | `#D9A431` | CTAs, highlights, links |
+| Stone | `#F7ECD4` | Backgrounds, cards |
 
-- `logos/mimo/` — MIMO wordmarks (SVG + PNG, on-light and on-dark).
-- `logos/masslogic/` — MassLogic Labs wordmarks (light and dark).
+Do not use `#0D1B2A`, `#C9A227` or `#E0E1DD`. These are superseded.
+
+## Which mark to use
+
+- **Light backgrounds:** primary wordmark. Navy brain, gold wordmark.
+- **Dark backgrounds:** secondary wordmark. Stone brain, gold wordmark.
+
+Cream-brain light-background MassLogic Labs exports are deprecated. Do not use them.
+
+## Clear space and size
+
+- **Clear space:** at least the width of the inner "M" on all sides.
+- **Minimum size:** full lockup 120px wide. Icon only 96px wide.
 
 ## Usage restrictions
 
-- **No alterations:** do not rotate, skew, recolor, or apply shadows/gradients to any mark.
-- **Clear space:** maintain sufficient clear space around all marks.
-- **Approved files only:** do not recreate or redraw any MIMO or MassLogic Labs mark.
+- **No alterations.** Do not rotate, skew, recolor, stretch, reconstruct, or
+  apply shadows or gradients to any mark.
+- **Approved files only.** Do not recreate or redraw any MIMO or MassLogic
+  Labs mark.
+- **These files are the approved exports.** New sizes or formats are produced
+  from the master artwork, not traced or converted from these. Request them
+  from brand@masslogiclabs.com.
+- **No combination.** Do not combine these marks with other identifiers
+  without written permission.
 
 ## Approvals
 
-All co-branded materials must be reviewed and approved prior to publication. Contact: inquiry@masslogiclabs.com
+All co-branded materials must be reviewed and approved before publication.
+Approval takes three business days from receipt.
+
+Contact: **brand@masslogiclabs.com**
