@@ -26,7 +26,7 @@ MIMO is the platform. These are its layers.
 - **MIMO Workspace™** — the CMO command surface; what a customer deploys and sees.
 - **MIMO Marketspace™** — the curated marketplace for licensed IP and certified agents.
 
-- **Where to start.** **Brand Radar™** is the entry-point product. It measures and flags how every AI surface represents your brand, with competitive benchmarking. Brand Radar reads your Marketing Outputs; MIMO Intelligence governs your Marketing Inputs. It is the first module of MIMO Canvas, the primary Workspace surface.
+**Where to start.** **Brand Radar™** is the entry-point product. It measures and flags how every AI surface represents your brand, with competitive benchmarking. Brand Radar reads your Marketing Outputs; MIMO Intelligence governs your Marketing Inputs. It is the first module of MIMO Canvas, the primary Workspace surface.
 
 ---
 
