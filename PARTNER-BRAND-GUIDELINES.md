@@ -1,6 +1,6 @@
-# MIMO Partner Brand Guidelines v1.0
+# MIMO Partner Brand Guidelines v1.1
 
-**Effective 22 October 2026 · Version 1.0 · MassLogic Labs, Inc.**
+**Effective 23 October 2026 · Version 1.1 · MassLogic Labs, Inc.**
 
 *Attached by reference to the MIMO Partner Agreement as "Company Brand Guidelines."*
 
@@ -40,10 +40,15 @@ Place ™ on the first or most prominent mention on a page. Later mentions in th
 
 ## 2. How to describe MIMO
 
+**Tagline:**
+
+> Brand Intelligence that Governs Your AI.
+
+Title case as written. Do not alter or paraphrase it.
+
 **Short, one sentence:**
-
-> MIMO is the intelligence engine for enterprise marketing.
-
+> MIMO is the brand intelligence platform for the enterprise.
+> 
 **Long, two to three sentences:**
 
 > MIMO is your brand's intelligence at the center of your AI stack. Owned by you, governing every AI that touches your brand. The MarTech stack manages branding. MIMO governs brand.
