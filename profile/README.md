@@ -15,8 +15,6 @@ MIMO is the platform from **MassLogic Labs**.
 
 The greatest brands were built by human minds that knew when to break the pattern. AI is the pattern. MIMO exists so your brand never becomes one.
 
-Lead with human intelligence. Scale with AI.
-
 ### The MIMO platform
 
 MIMO is the platform. These are its layers.
