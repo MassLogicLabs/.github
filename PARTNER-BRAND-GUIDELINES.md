@@ -132,4 +132,23 @@ Get written approval before you publish:
 
 **Who approves.** MassLogic Labs, at brand@masslogiclabs.com.
 
-**How long.** Three business days from receipt, for MassLogic Labs' own review. Where third-party consent is also required, such as a customer's
+**How long.** Three business days from receipt, for MassLogic Labs' own review. Where third-party consent is also required, such as a customer's consent under section 6, that time is additional and sits outside this period.
+
+No response within three business days does not mean approval. Do not publish until approval is given in writing.
+
+## 8. Updates
+
+MassLogic Labs may update these guidelines on notice. Notice is given by email to your registered partner contact, with the updated version posted at the address stated on the cover page of the Partner Agreement. Changes take effect 30 days after notice unless the notice states otherwise.
+
+## 9. Brand questions
+
+brand@masslogiclabs.com
+
+---
+
+## Version history
+
+| Version | Issued | Effective | Changes |
+| --- | --- | --- | --- |
+| 1.2 | 17 November 2026 | 17 December 2026 | New tagline, "Govern Every AI That Touches Your Brand.", with its usage rules (section 2). "Vendor-agnostic" and "regardless of vendor" moved to Never say, with a new replacement line (section 3). Retired names and lines added to Never say: the previous tagline, the previous category phrase, "Lead with human intelligence. Scale with AI.", lowercase "brand signals", and title-case "Brand Intelligence" (section 3). How MIMO is sold, and the standards-partner reseller exception (section 3). One shared icon, and no standalone use of the wordmark's "O" or swoosh (section 4). |
+| 1.1 | | 23 October 2026 | Previous version. |
